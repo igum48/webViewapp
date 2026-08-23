@@ -1,0 +1,6 @@
+com.igs.mwa.test.app-androidTest-0 /home/bulka/Projects/mywv/app/build/generated/res/resValues/androidTest/debug
+com.igs.mwa.test.app-updated_navigation_xml-1 /home/bulka/Projects/mywv/app/build/generated/updated_navigation_xml/debugAndroidTest
+com.igs.mwa.test.app-mergeDebugAndroidTestResources-2 /home/bulka/Projects/mywv/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.igs.mwa.test.app-mergeDebugAndroidTestResources-3 /home/bulka/Projects/mywv/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.igs.mwa.test.app-debugAndroidTest-4 /home/bulka/Projects/mywv/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+gradleHome-0 /home/bulka/.gradle

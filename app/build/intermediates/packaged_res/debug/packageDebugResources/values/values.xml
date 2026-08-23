@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_primary">#0A8600</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_primary">#FFFFFF</color>
+    <string name="app_name">My Webview app</string>
+    <string name="no_inet"><b>No Internet connection</b></string>
+    <style name="Base.Theme.mwa" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/dark_primary</item>
+    </style>
+    <style name="Theme.mwa" parent="Base.Theme.mwa"/>
+</resources>

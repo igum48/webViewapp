@@ -1,0 +1,7 @@
+com.igs.sberry.test.app-tracing-1.2.0-0 /home/bulka/.gradle/caches/8.13/transforms/5a989fed51480767c19e3b46ba67bcf5/transformed/tracing-1.2.0/res
+com.igs.sberry.test.app-core-1.6.1-1 /home/bulka/.gradle/caches/8.13/transforms/671b53d48d1591e5032bd55dbe96f935/transformed/core-1.6.1/res
+com.igs.sberry.test.app-androidTest-2 /home/bulka/AndroidStudioProjects/sberry2/app/build/generated/res/resValues/androidTest/debug
+com.igs.sberry.test.app-updated_navigation_xml-3 /home/bulka/AndroidStudioProjects/sberry2/app/build/generated/updated_navigation_xml/debugAndroidTest
+com.igs.sberry.test.app-mergeDebugAndroidTestResources-4 /home/bulka/AndroidStudioProjects/sberry2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.igs.sberry.test.app-mergeDebugAndroidTestResources-5 /home/bulka/AndroidStudioProjects/sberry2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.igs.sberry.test.app-debugAndroidTest-6 /home/bulka/AndroidStudioProjects/sberry2/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
