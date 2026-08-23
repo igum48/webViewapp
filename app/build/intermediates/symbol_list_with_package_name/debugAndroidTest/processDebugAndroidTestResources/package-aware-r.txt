@@ -1,3 +1,0 @@
-com.igs.mwa.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
